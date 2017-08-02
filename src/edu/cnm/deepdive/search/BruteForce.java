@@ -27,7 +27,7 @@ public class BruteForce {
 	private static String outputName;
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		haystackName = args[0];
 		needlesName = args[1];
 		outputName = args[2];
